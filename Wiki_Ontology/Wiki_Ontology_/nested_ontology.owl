@@ -1,0 +1,286 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="https://en.wikipedia.org/wiki/"
+    xmlns:j.1="https://en.wikipedia.org/wiki/JavaPlatform,"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Generics_in_Java">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Javaprogramming"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Gosling">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/James_Gosling"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Cross-platformsoftware">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Java_(software_platform)"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/PlainoldCLRobject">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Plain_old_Java_object"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Javabytecode">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/List_of_Java_bytecode_instructions"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/ListofJavabytecodeinstructions">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Java_bytecode"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/List_of_Java_bytecode_instructions">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Javaprogramming"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Java_Metadata_Interface">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Javaprogramming"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/James_Gosling">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Javaprogramming"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Javavirtualmachine">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/List_of_Java_bytecode_instructions"/>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Java_bytecode"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Scala_(programming_language)">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Javaprogramming"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Java_Development_Kit">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Javaprogramming"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/JavaPlatform,MicroEdition">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Java_(software_platform)"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Java_bytecode">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Javaprogramming"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Destructor_computerprogramming_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Method_(computer_programming)"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Markerinterfacepattern">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Java_Metadata_Interface"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Criticism_of_Java">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Javaprogramming"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/SpringFramework">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/List_of_Java_frameworks"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Encapsulation">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/React_JavaScriptlibrary_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/JavaScript"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Kotlin_(programming_language)">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Javaprogramming"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Javaprogramming"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Indexofobject-orientedprogrammingarticles">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Object-oriented_programming">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Javaprogramming"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/MicrosoftJavaVirtualMachine">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Java_virtual_machine"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/JavaScriptengine">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/JavaScript"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Softwaredevelopmentkit">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Java_Development_Kit"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/KotlinIsland">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Kotlin_(programming_language)"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Javaversionhistory">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Java_Development_Kit"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Java_version_history">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Javaprogramming"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/MartinOdersky">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Scala_(programming_language)"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Method">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Method_(computer_programming)"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Genericprogramming">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Generics_in_Java"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Javaannotation">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Java_Metadata_Interface"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Interface_object-orientedprogramming_">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Object-oriented_programming"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Java_Platform,_Micro_Edition">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Javaprogramming"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/GoslingEmacs">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/James_Gosling"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/ListofJavavirtualmachines">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Java_virtual_machine"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/HistoryofJava">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Java_version_history"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Java_(software_platform)">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Javaprogramming"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Kotlin_programminglanguage_">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Java_(programming_language)"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/JavaPlatform,StandardEdition">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Java_Platform,_Micro_Edition"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Java_virtual_machine">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Javaprogramming"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Kotlin">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Kotlin_(programming_language)"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/PlainOldXML">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Plain_old_Java_object"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/List_of_Java_frameworks">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Javaprogramming"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Javacollectionsframework">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/List_of_Java_frameworks"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Method_(computer_programming)">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Javaprogramming"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/JavaScript">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Criticism_of_Java"/>
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Javaprogramming"/>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="https://en.wikipedia.org/wiki/Java_(programming_language)"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Java_programminglanguage_">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Java_Platform,_Micro_Edition"/>
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Criticism_of_Java"/>
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Generics_in_Java"/>
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Java_version_history"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Inheritance_object-orientedprogramming_">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Object-oriented_programming"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Plain_old_Java_object">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Javaprogramming"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Comparisonofmulti-paradigmprogramminglanguages">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Scala_(programming_language)"/>
+  </owl:Class>
+  <owl:Class rdf:about="https://en.wikipedia.org/wiki/Java_(programming_language)">
+    <rdfs:subClassOf rdf:resource="https://en.wikipedia.org/wiki/Javaprogramming"/>
+  </owl:Class>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/IndividualURI">
+    <rdf:type>Plain Old XML</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Softwaredevelopmentkit"/>
+    <rdf:type>Encapsulation</rdf:type>
+    <rdf:type>Microsoft Java Virtual Machine</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/JavaPlatform,StandardEdition"/>
+    <rdf:type>Java _programming language_</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/MartinOdersky"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Method"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Cross-platformsoftware"/>
+    <rdf:type>Index of object-oriented programming articles</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Gosling"/>
+    <rdf:type>Java version history</rdf:type>
+    <rdf:type>Java bytecode</rdf:type>
+    <rdf:type>List of Java virtual machines</rdf:type>
+    <rdf:type>Kotlin</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/PlainoldCLRobject"/>
+    <rdf:type>Java Platform, Micro Edition</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/GoslingEmacs"/>
+    <rdf:type>Gosling</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Java_programminglanguage_"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Kotlin"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/MicrosoftJavaVirtualMachine"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Genericprogramming"/>
+    <rdf:type>Generic programming</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Comparisonofmulti-paradigmprogramminglanguages"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/PlainOldXML"/>
+    <rdf:type>List of Java bytecode instructions</rdf:type>
+    <rdf:type>Destructor _computer programming_</rdf:type>
+    <rdf:type>React _JavaScript library_</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Javaannotation"/>
+    <rdf:type>Kotlin Island</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/ListofJavavirtualmachines"/>
+    <rdf:type>Spring Framework</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Javaversionhistory"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Encapsulation"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/JavaScriptengine"/>
+    <rdf:type>Comparison of multi-paradigm programming languages</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Javavirtualmachine"/>
+    <rdf:type>Plain old CLR object</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Indexofobject-orientedprogrammingarticles"/>
+    <rdf:type>Java virtual machine</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Markerinterfacepattern"/>
+    <rdf:type>Interface _object-oriented programming_</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/HistoryofJava"/>
+    <rdf:type>Java annotation</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Destructor_computerprogramming_"/>
+    <rdf:type>Method</rdf:type>
+    <rdf:type>JavaScript engine</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/JavaPlatform,MicroEdition"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/JavaScript"/>
+    <rdf:type>Gosling Emacs</rdf:type>
+    <rdf:type>Inheritance _object-oriented programming_</rdf:type>
+    <rdf:type>Java Platform, Standard Edition</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/KotlinIsland"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Javabytecode"/>
+    <rdf:type>Marker interface pattern</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Javacollectionsframework"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/SpringFramework"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/ListofJavabytecodeinstructions"/>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/React_JavaScriptlibrary_"/>
+    <rdf:type>Cross-platform software</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Kotlin_programminglanguage_"/>
+    <rdf:type>Java collections framework</rdf:type>
+    <rdf:type>JavaScript</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Interface_object-orientedprogramming_"/>
+    <rdf:type>Kotlin _programming language_</rdf:type>
+    <rdf:type>Software development kit</rdf:type>
+    <rdf:type>Martin Odersky</rdf:type>
+    <rdf:type rdf:resource="https://en.wikipedia.org/wiki/Inheritance_object-orientedprogramming_"/>
+    <rdf:type>History of Java</rdf:type>
+  </rdf:Description>
+</rdf:RDF>
